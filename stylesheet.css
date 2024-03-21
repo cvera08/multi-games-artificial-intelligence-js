@@ -1,0 +1,120 @@
+html, body
+{
+  background: -webkit-linear-gradient(90deg,  rgb(117, 121, 240) 0%, rgb(0, 0, 0) 100%); /* Body Background Color */
+  cursor: not-allowed; /* Set Cursor To not-allowed */
+  padding: 0; /* Body Padding */
+  margin: 0; /* Body Margin */
+}
+
+.fourColumns /* fourColumns Class Configuration */
+{
+  height: 100%; /* Column Height */
+  width: 25%; /* Column Width */
+  float: left; /* Column Align */
+}
+
+.mainDiv /* mainDiv Class Configuration */
+{
+  top: 25%; /* Distance From Top */
+  height: 45%; /* Class Height */
+  left: 25%; /* Distance From Left */
+  width: 50%; /* Class Width */
+  box-shadow: 0px 0px 35px 10px black; /* Set Glow-Shadow */
+  position: relative; /* Class Position */
+  overflow: hidden; /* Hide Everything Out Of div */
+  border-radius: 10px; /* Class Border Radius */
+  transform: scale(1.5); /* Set Transform Effect */
+  transition: 0.7s ease-in-out; /* Set Transition Effect */
+}
+
+.mainDiv:hover /* mainDiv Class Configuration When Hover With Mouse */
+{
+  transform: scale(1.6); /* Set Transform Effect */
+  transition: 0.7s ease-in-out; /* Set Transition Effect */
+}
+
+.mainDiv .spanDiv /* spanDiv Class Configuration */
+{
+  background: -webkit-linear-gradient(90deg, rgb(117, 121, 240) 0%, rgb(240, 115, 175) 100%); /* Class Background Color */
+  height: 100%; /* Class Height */
+  display: flex; /* Class Display */
+  width: 100%; /* Class Width */
+  position: absolute; /* Class Position */
+}
+
+.mainDiv .spanDiv > span /* span Of spanDiv Configuration */
+{
+  background: -webkit-linear-gradient(90deg, rgb(240, 115, 175) 0%, rgb(117, 121, 240) 100%); /* Span Background Color */
+  height: 100%; /* Span Height */
+  width: 100%; /* Span Width */
+  transition: 0.7s ease-in-out; /* Set Transition Effect */
+}
+
+.mainDiv:hover .spanDiv > span /* span Of spanDiv Configuration When Hover With Mouse */
+{
+  transform: translateY(-100%); /* Set Transform Effect */
+}
+
+.intoSpanDiv /* intoSpanDiv Class Configuration */
+{
+  height: 100%; /* div Height */
+  width: 100%; /* div Width */
+  display: flex; /* div Display */
+  align-items: center; /* div Align Items */
+  font-family: 'Noto Sans Kr','sans-serif'; /* div Font Family */
+  justify-content: center; /* div Set Content In Center */
+  transform: translateY(100%); /* Set Transform Effect */
+  transform: rotate(50deg); /* Set Transform Effect */
+  transition: 0.7s ease-in-out; /* Set Transition Effect */
+}
+
+.mainDiv:hover .intoSpanDiv /* div Of mainDiv Configuration When Hover With Mouse */
+{
+  transform: translateY(0%); /* Set Transform Effect */
+  transition: 0.5s; /* Set Transition Effect */
+}
+
+button /* Page Buttons Style */
+{
+  background-color: black; /* Buttons Background Color */
+  border: 0; /* Buttons Set Border To 0 */
+  margin: 15px; /* Buttons Margin */
+  letter-spacing: 1px; /* Buttons Font Size */
+  font-size: 15px; /* Buttons Font Size */
+  transition: .3s; /* Buttons Transition Effect */
+  min-width: 165px; /* Buttons Minimum Width  */
+  cursor: pointer; /* Buttons Cursor When Hover With Mouse */
+  border-radius: 100px; /* Buttons Border Radius */
+  text-transform: uppercase; /* Buttons Set Text To Uppercase */
+  padding: 17px 25px; /* Buttons Padding */
+  font-weight: bold; /* Buttons Font Weight */
+  outline: none; /* Buttons Set Outline To None */
+  font-family: 'Noto Sans Kr','sans-serif'; /* Buttons Text Font Family */
+  opacity: 0.6; /* Buttons Opacity Effect */
+  color: rgb(72, 206, 254); /* Buttons Text Color */
+  transition: 0.3s ease-in-out; /* Set Transition Effect */
+}
+
+button:hover /* Page Buttons Style When Hover With Mouse */
+{
+  box-shadow: 0 0 5px 5px black; /* Add Glow-Shadow When Hover */ 
+  opacity: 1; /* Change Opacity From 0.6 To 1 When Hover */
+  transform: scale(1.3); /* Button Hover Scale */
+  transition: 0.5s ease-in-out; /* Set Transition Effect */
+}
+
+h3 /* Page H3 Style */
+{
+  text-align: center; /* H3 Text Align */
+  text-transform: uppercase; /* H3 Set Text To Uppercase */
+  font-family: 'Noto Sans Kr','sans-serif'; /* H3 Set Font Family */
+  padding-top: 110%; /* H3 Padding From Top */
+}
+
+h2 /* Page H2 Style */
+{
+  text-align: center; /* H2 Text Align */
+  text-transform: uppercase; /* H2 Set Text To Uppercase */
+  font-family: 'Noto Sans Kr','sans-serif'; /* H2 Set Font Family */
+  font-weight: bold; /* H2 Font Weight */
+}
