@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>Pong AI</title> <!-- Tab Title -->
+        <link rel="preconnect" href="https://fonts.gstatic.com"> <!-- Google Font Api -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap" rel="stylesheet"> <!-- Noto Sans KR Google Font API -->
+        <link rel="stylesheet" href="stylesheet.css"> <!-- Connect with CSS file -->
+    </head>
+    <body>
+        <div id="main"> <!-- Page main div -->
+            <div id="startPopUp"> <!-- Start Menu div -->
+                <h1>Pong Game (Player vs AI)</h1> <!-- Start Menu Title-->
+                <button id="startButton">Start</button> <!-- Start Menu "Start" Button-->
+                <button onclick="window.open('../index.html', '_self');">Exit</button> <!-- Exit Button-->
+            </div>
+            <div id="pausePopUp"> <!-- Pause Menu div-->
+                <h1>Game is Paused</h1> <!-- Pause Menu Title-->
+                <button id="firstButton">Continue The Game</button> <!-- Pause Menu "Continue" Button-->
+                <button id="secondButton">Restart The Game</button> <!-- Pause Menu "Restart" Button-->
+                <button onclick="window.open('../index.html', '_self');">Exit</button> <!-- Exit Button-->
+            </div>
+            <div id="gameoverPopUp"> <!-- Game Over Menu div-->
+                <h1 id="message"></h1> <!-- Game Over Menu Title-->
+                <button id="tryagainButton">Try again</button> <!-- Game Over Menu "Try Again" Button-->
+                <button onclick="window.open('../index.html', '_self');">Exit</button> <!-- Exit Button-->
+            </div>
+            <div id="game"> <!-- Game Menu div-->
+                <button id="PauseButton">Pause</button> <!-- Pause Menu "Pause" Button-->
+                <button id="ExitButton" onclick="window.open('../index.html', '_self');">Exit</button> <!-- Exit Button-->
+                <canvas id="ponggameCanvas" width="800" height="500"></canvas> <!-- Game Create Canvas-->
+            </div>
+        </div>
+        <script  src="ai.js"></script> <!-- Connect with JavaScript File for the configuration and the AI-->
+    </body>
+</html>
