@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Tic Tac Toe AI</title> <!-- Tab Title -->
+        <link rel="preconnect" href="https://fonts.gstatic.com"> <!-- Google Font Api -->
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap" rel="stylesheet"> <!-- Noto Sans KR Google Font API -->
+        <link rel="stylesheet" href="stylesheet.css"> <!-- Connect with CSS file -->
+    </head>
+    <body>
+        <div id="main"> <!-- Page main div -->
+            <div id="startPopUp"> <!-- Start Menu div -->
+                <h1>Tic Tac Toe Game (Player vs AI)</h1> <!-- Start Menu Title-->
+                <button id="startButton">Start</button> <!-- Start Menu "Start" Button-->
+                <button onclick="window.open('../index.html', '_self');">Exit</button> <!-- Exit Button-->
+            </div>
+            <div id="tie"> <!-- Tie div -->
+                <h1>Tie!</h1> <!-- Tie Menu Title-->
+                <button id="tieButton">Play Again</button> <!-- Tie Menu Button-->
+                <button onclick="window.open('../index.html', '_self');">Exit</button> <!-- Exit Button-->
+            </div>
+            <div id="player"> <!-- Player div -->
+                <h1>Player Won!</h1> <!-- Player Menu Title-->
+                <button id="playerButton">Play Again</button> <!-- Player Menu Button-->
+                <button onclick="window.open('../index.html', '_self');">Exit</button> <!-- Exit Button-->
+            </div>
+            <div id="ai"> <!-- AI div -->
+                <h1>AI Won!</h1> <!-- AI Menu Title-->
+                <button id="aiButton">Play Again</button> <!-- AI Menu Button-->
+                <button onclick="window.open('../index.html', '_self');">Exit</button> <!-- Exit Button-->
+            </div>
+            <div id="game"> <!-- Game Menu div-->
+                <canvas id="tictactoeCanvas" width="800" height="500"></canvas> <!-- Game Create Canvas-->
+            </div>
+        </div>
+        <script  src="ai.js"></script> <!-- Connect with JavaScript File for the configuration and the AI-->
+    </body>
+</html>
