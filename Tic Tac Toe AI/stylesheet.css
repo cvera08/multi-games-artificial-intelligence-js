@@ -1,0 +1,109 @@
+html, body 
+{
+  background: -webkit-linear-gradient(90deg, rgb(72, 206, 254) 0%, rgb(235, 27, 254) 100%); /* Body Background Color */
+  width: 100%; /* Body Width */
+  height: 100%; /* Body Height */
+  font-family: 'Noto Sans KR', sans-serif; /* Body Font */
+  margin: 0; /* Body Margin */
+}
+
+#main /* Page Main Style */
+{
+  display: flex; /* Display */
+  height: 100%; /* Height */
+  width: 100%; /* Width */
+  align-items: center; /* Set All Items In Center */
+  justify-content: center; /* Set All Content In Center */
+  cursor: not-allowed; /* Set Cursor To not-allowed */
+}
+
+#main > div /* Main div Style */
+{
+  filter: blur(50px); /* Set Blur Effect */
+  transition: .2s; /* Set Transition Effect */
+  position: fixed; /* Position */
+  text-align: center; /* Set Text In center */
+}
+
+#main > div ~ #ai /* AI div Style */
+{
+  border-radius: 5%; /* AI Window Border - Radius */
+  transform: scale(1.2); /* Set Scale Transform To AI Window */
+  background: rgba(0, 0, 0, 0.6);
+}
+
+#main > div ~ #tie /* Tie div Style */
+{
+  border-radius: 5%; /* Tie Window Border - Radius */
+  transform: scale(1.2); /* Set Scale Transform To Tie Window */
+  background: rgba(0, 0, 0, 0.6);
+}
+
+#main > div ~ #player /* Player div Style */
+{
+  border-radius: 5%; /* Player Window Border - Radius */
+  transform: scale(1.2); /* Set Scale Transform To Player Window */
+  background: rgba(0, 0, 0, 0.6);
+}
+
+#main > div.on /* Style When div Is On */
+{
+  z-index: 1; /* Index Of div In Z Axis */
+  filter: blur(0); /* Set Blur Effect to 0 */
+  border-radius: 5%; /* div Border - Radius When div Is On */
+}
+
+#main > #game /* Game div Style */
+{
+  filter: blur(0); /* Set Blur Effect */
+  transform: scale(1); /* Set Transform Effect*/
+}
+
+#main > #game > #tictactoeCanvas /* Canvas div Style */
+{
+  margin: auto; /* Canvas Margin */
+  box-shadow: 0 0 30px 30px black; /* Set Glow-Shadow */
+  border: 3px dashed rgb(72, 206, 254); /* Border Around Canvas */
+  background: black; /* Set Background Color */
+  transform: scale(1.5); /* Set Transform Effect */
+}
+
+#main > div.on ~ #game /* game div Style When div Is On */
+{
+  opacity: .80; /* Set Opacity Effect */
+  filter: blur(15px); /* Set Blur Effect */
+  transform: scale(.90); /* Set Transform Effect */
+}
+
+button /* Page Buttons Style */
+{
+  background-color: rgb(72, 206, 254); /* Button Background Color */
+  color: black; /* Button Text Color */
+  font-weight: bold; /* Buttons Font Weight */
+  font-size: 15px; /* Buttons Font Size */
+  text-transform: uppercase; /* Buttons Set Text to Uppercase */
+  letter-spacing: 1px; /* Buttons Font Size */
+  border-radius: 100px; /* Buttons Border Radius */
+  border: 0; /* Buttons Set Border To 0 */
+  outline: none; /* Buttons Set Outline To None */
+  min-width: 200px; /* Buttons Minimum Width  */
+  margin: 15px; /* Buttons Margin */
+  padding: 17px 25px; /* Buttons Padding */
+  transition: .2s; /* Buttons Transition Effect */
+  opacity: 0.6; /* Buttons Opacity Effect */
+  cursor: pointer; /* Buttons Cursor When Hover With Mouse */
+}
+
+button:hover /* Page Buttons Style When Hover With Mouse */
+{
+  opacity: 1; /* Change Opacity From 0.6 To 1 When Hover */
+  box-shadow: 0 0 5px 5px rgb(72, 206, 254); /* Add Glow-Shadow When Hover */ 
+}
+
+h1 /* Page H1 Style */
+{
+  color: rgb(72, 206, 254); /* H1 Color */
+  font-size: 50px; /* H1 Font Size */
+  letter-spacing: 3px; /* H1 Space Between Letters */
+  text-transform: uppercase; /* H1 Set Text To Uppercase */
+}
