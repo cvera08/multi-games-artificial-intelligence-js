@@ -6,6 +6,6 @@
 
 ## Live Demo
 
-:point_right: [online-resume][Demo] :point_left:
+:point_right: [multi-games][Demo] :point_left:
 
 [Demo]: https://cvera08.github.io/multi-games-artificial-intelligence-js/
