@@ -1,6 +1,6 @@
 <h1 align="center">Multi Games</h1>
 
-<h4 align="center">By the usage of Artificial Intelligence.</h4>
+<h4 align="center">Web-based by using Artificial Intelligence.</h4>
 
 ---
 
