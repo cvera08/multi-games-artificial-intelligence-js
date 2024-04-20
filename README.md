@@ -49,3 +49,20 @@ You can follow one of these links:
 
 </details>  
 
+___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#configure-this-project)Configure this project
+
+Open your console/terminal and run this: 
+
+```sh
+cd Desktop #or: >cd </your/desired/project/path/> 
+git clone https://github.com/cvera08/multi-games-artificial-intelligence-js.git
+cd multi-games-artificial-intelligence-js
+```
+
+- Open your favorite browser
+- Drag and drop the _index.html_ file into your navigator or
+- Open the _index.html_ file from your browser
+
+___
