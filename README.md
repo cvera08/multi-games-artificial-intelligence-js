@@ -61,8 +61,11 @@ git clone https://github.com/cvera08/multi-games-artificial-intelligence-js.git
 cd multi-games-artificial-intelligence-js
 ```
 
+___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#quick-run)Quick run
+
 - Open your favorite browser
 - Drag and drop the _index.html_ file into your navigator or
 - Open the _index.html_ file from your browser
-
 ___
