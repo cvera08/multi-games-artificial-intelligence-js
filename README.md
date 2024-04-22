@@ -69,3 +69,14 @@ ___
 - Drag and drop the _index.html_ file into your navigator or
 - Open the _index.html_ file from your browser
 ___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#play-games)Play Games directly in the Browser
+
+- Once you open the games in your browser
+- Choose your favorite game. The options are:
+   - Snake
+   - Tic Tac Toe
+   - Pong
+   - Soccer Car
+- Hit the **START** button
+___
