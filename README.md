@@ -80,3 +80,7 @@ ___
    - Soccer Car
 - Hit the **START** button
 ___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#github-actions-support)GitHub Actions Support
+
+This repository has the support for its own [GHA](https://github.com/cvera08/multi-games-artificial-intelligence-js/actions) as well.
