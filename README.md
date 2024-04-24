@@ -70,7 +70,7 @@ ___
 - Open the _index.html_ file from your browser
 ___
 
-## [![](https://i.ibb.co/2kHmnLX/image.png)](#play-games)Play Games directly in the Browser
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#play-games-directly-in-the-browser)Play Games directly in the Browser
 
 - Once you open the games in your browser
 - Choose your favorite game. The options are:
