@@ -17,7 +17,7 @@
    - [Install Git locally](#install-git-locally)
 - [Configure this project](#configure-this-project)
 - [Quick run](#quick-run)
-- [Play Games directly in the Browser](#play-games)
+- [Play Games directly in the Browser](#play-games-directly-in-the-browser)
 - [GitHub Actions Support](#github-actions-support)
    - [Deploy Changes with GHA](#run-tests-with-gha)
 - [Additional Commands](#additional-commands)
