@@ -95,6 +95,12 @@ In this case, it is pretty straightforward, just:
 - Once finished it will be red or green
 - If green status, just reload the [site][Demo] URL without cookies (You can do it with cmd + shift + r)
 
-![image](https://github.com/cvera08/multi-games-artificial-intelligence-js/assets/28716586/e3f074bc-aeec-411c-9ea8-f41b6a5f27ce)
+![image](https://github.com/cvera08/multi-games-artificial-intelligence-js/assets/28716586/37072471-74c9-47d4-a036-4200e38e3fa5)
+
+![image](https://github.com/cvera08/multi-games-artificial-intelligence-js/assets/28716586/093d2f16-cab6-4f97-aaad-fee36010a4e9)
 
 _You can see the list of deployments at [All Deployments](https://github.com/cvera08/multi-games-artificial-intelligence-js/deployments) GH Page_
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#additional-commands)Additional Commands
+
+N/A.
