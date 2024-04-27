@@ -83,7 +83,7 @@ ___
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#github-actions-support)GitHub Actions Support
 
-This repository has the support for its own [GHA](https://github.com/cvera08/multi-games-artificial-intelligence-js/actions) as well.
+This repository has the support for its own [GHA](https://github.com/cvera08/multi-games-artificial-intelligence-js/actions) as well
 
 #### Deploy Changes with GHA
 
@@ -101,6 +101,14 @@ In this case, it is pretty straightforward, just:
 
 _You can see the list of deployments at [All Deployments](https://github.com/cvera08/multi-games-artificial-intelligence-js/deployments) GH Page_
 
+___
+
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#additional-commands)Additional Commands
+
+N/A.
+
+___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#miscellaneous)Miscellaneous
 
 N/A.
