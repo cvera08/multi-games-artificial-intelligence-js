@@ -112,3 +112,14 @@ ___
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#miscellaneous)Miscellaneous
 
 N/A.
+
+___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#primary-authors)Primary Authors
+
+
+* __[Carlos Vera](https://www.linkedin.com/in/carlos-vera-06a6b053)__
+
+    [@cvera08](https://github.com/cvera08) is the current creator and maintainer of the code and has written much of the
+    current code base, including complete refactors, bug fixing and general improvements to the existing code base.
+    He has been assisting with maintenance and adding project documentation as well
