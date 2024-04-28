@@ -123,3 +123,10 @@ ___
     [@cvera08](https://github.com/cvera08) is the current creator and maintainer of the code and has written much of the
     current code base, including complete refactors, bug fixing and general improvements to the existing code base.
     He has been assisting with maintenance and adding project documentation as well
+
+___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#other-contributors)Other Contributors
+
+
+N/A.
