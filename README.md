@@ -142,3 +142,33 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+___
+
+## [![](https://i.ibb.co/2kHmnLX/image.png)](#change-log)Change Log
+
+Stable Builds:
+
+* Apr 25, 2024 -- v2.0.5
+  * Fix Table of Contents
+
+* Apr 24, 2024 -- v2.0.4
+  * Fix Play Games Link
+
+* Apr 8, 2024 -- v2.0.1
+  * Project Documentation
+
+* Apr 3, 2024 -- v1.1.9
+  * Snake Game
+
+* Mar 30, 2024 -- v1.1.8
+  * Soccer Game
+
+* Mar 27, 2024 -- v1.1.5
+  * Pong Game
+
+* Mar 20, 2024 -- v1.0.2
+  * Main HTML Page
+
+* Mar 19, 2024 -- v1.0.0
+  * Initial Project
