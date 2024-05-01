@@ -10,6 +10,7 @@
 
 [Demo]: https://cvera08.github.io/multi-games-artificial-intelligence-js/
 
+[index.html]: https://github.com/cvera08/multi-games-artificial-intelligence-js/blob/master/index.html
 ---
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#table-of-contents)Table of contents
@@ -44,7 +45,7 @@ You can follow one of these links:
 
 |    Option           |              Link                                                |                          Command                      |
 | ------------------- | ---------------------------------------------------------------- | ----------------------------------------------------- |
-| ***Windows, Linux, Mac***| [git-scm.com/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)|  _use the [Link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) depending on your OS_        |
+| ***Windows, Linux, Mac***| [git-scm.com/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)|  _👈 Select according to your OS_        |
 | ***Homebrew***      | [atlassian.com/install-git](https://www.atlassian.com/git/tutorials/install-git)         | `brew install git`            |
 
 </details>  
@@ -66,8 +67,8 @@ ___
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#quick-run)Quick run
 
 - Open your favorite browser
-- Drag and drop the _index.html_ file into your navigator or
-- Open the _index.html_ file from your browser
+- Drag and drop the [_index.html_][index.html] file into your navigator
+- -_Or just open the [index.html][index.html] file from your browser_-
 ___
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#play-games-directly-in-the-browser)Play Games directly in the Browser
