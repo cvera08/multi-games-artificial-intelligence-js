@@ -11,6 +11,7 @@
 [Demo]: https://cvera08.github.io/multi-games-artificial-intelligence-js/
 
 [index.html]: https://github.com/cvera08/multi-games-artificial-intelligence-js/blob/master/index.html
+
 ---
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#table-of-contents)Table of contents
@@ -73,12 +74,12 @@ ___
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#play-games-directly-in-the-browser)Play Games directly in the Browser
 
-- Once you open the games in your browser
+- Once you open the games in your local browser
 - Choose your favorite game. The options are:
-   - Snake
-   - Tic Tac Toe
-   - Pong
-   - Soccer Car
+   - [Snake](https://cvera08.github.io/multi-games-artificial-intelligence-js/Snake%20AI/index.html)
+   - [Tic Tac Toe](https://cvera08.github.io/multi-games-artificial-intelligence-js/Tic%20Tac%20Toe%20AI/index.html)
+   - [Pong](https://cvera08.github.io/multi-games-artificial-intelligence-js/Pong%20AI/index.html)
+   - [Soccer Car](https://cvera08.github.io/multi-games-artificial-intelligence-js/Soccer%20Car%20AI/index.html)
 - Hit the **START** button
 ___
 
