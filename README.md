@@ -89,13 +89,15 @@ This repository has the support for its own [GHA](https://github.com/cvera08/mul
 
 #### Deploy Changes with GHA
 
-In this case, it is pretty straightforward, just:
+In this case, it is pretty straightforward:
 
 - Just commit a new change
 - Go to the [GitHub Actions](https://github.com/cvera08/multi-games-artificial-intelligence-js/actions) of this Repository
 - There you will have a yellow/progress of your deploy
 - Once finished it will be red or green
 - If green status, just reload the [site][Demo] URL without cookies (You can do it with cmd + shift + r)
+
+<br/>
 
 ![image](https://github.com/cvera08/multi-games-artificial-intelligence-js/assets/28716586/37072471-74c9-47d4-a036-4200e38e3fa5)
 
@@ -107,13 +109,13 @@ ___
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#additional-commands)Additional Commands
 
-N/A.
+N/A
 
 ___
 
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#miscellaneous)Miscellaneous
 
-N/A.
+N/A
 
 ___
 
@@ -131,7 +133,7 @@ ___
 ## [![](https://i.ibb.co/2kHmnLX/image.png)](#other-contributors)Other Contributors
 
 
-N/A.
+N/A
 
 ___
 
