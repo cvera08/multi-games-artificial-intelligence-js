@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-:point_right: [multi-games][Demo] :point_left:
+:point_right: [multi-ai-web-games][Demo] :point_left:
 
 [Demo]: https://cvera08.github.io/multi-games-artificial-intelligence-js/
 
